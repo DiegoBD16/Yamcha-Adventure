@@ -1,0 +1,1633 @@
+fileFormatVersion: 2
+guid: 19045eaf17850194aae031f41fcf604b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2799922573375063956
+    second: Saibaman Spritesheet_0
+  - first:
+      213: -1421218374312090358
+    second: Saibaman Spritesheet_1
+  - first:
+      213: -5300619968640885744
+    second: Saibaman Spritesheet_2
+  - first:
+      213: -33616927098182327
+    second: Saibaman Spritesheet_3
+  - first:
+      213: -1732463110627582861
+    second: Saibaman Spritesheet_4
+  - first:
+      213: -3095162331411599356
+    second: Saibaman Spritesheet_5
+  - first:
+      213: 9090998737928280046
+    second: Saibaman Spritesheet_6
+  - first:
+      213: -5476808386720566796
+    second: Saibaman Spritesheet_7
+  - first:
+      213: -2110270349581454246
+    second: Saibaman Spritesheet_8
+  - first:
+      213: 7393453368611430904
+    second: Saibaman Spritesheet_9
+  - first:
+      213: 6358670222616198500
+    second: Saibaman Spritesheet_10
+  - first:
+      213: -7079849949721096239
+    second: Saibaman Spritesheet_11
+  - first:
+      213: 3124690301393660753
+    second: Saibaman Spritesheet_12
+  - first:
+      213: -7150592863411955604
+    second: Saibaman Spritesheet_13
+  - first:
+      213: -1207339666867241571
+    second: Saibaman Spritesheet_14
+  - first:
+      213: 4369500130022811778
+    second: Saibaman Spritesheet_15
+  - first:
+      213: 7234886567723719258
+    second: Saibaman Spritesheet_16
+  - first:
+      213: 7158760420744007399
+    second: Saibaman Spritesheet_17
+  - first:
+      213: -5539096259083084683
+    second: Saibaman Spritesheet_18
+  - first:
+      213: 782920432240676121
+    second: Saibaman Spritesheet_19
+  - first:
+      213: -6190774003822894702
+    second: Saibaman Spritesheet_20
+  - first:
+      213: -2697147342804333639
+    second: Saibaman Spritesheet_21
+  - first:
+      213: 8001313358685551839
+    second: Saibaman Spritesheet_22
+  - first:
+      213: 6629079566941071564
+    second: Saibaman Spritesheet_23
+  - first:
+      213: -9082352590812091116
+    second: Saibaman Spritesheet_24
+  - first:
+      213: -4296802045054856093
+    second: Saibaman Spritesheet_25
+  - first:
+      213: -8635208799432531737
+    second: Saibaman Spritesheet_26
+  - first:
+      213: -2011137410711217039
+    second: Saibaman Spritesheet_27
+  - first:
+      213: -4584005599753361190
+    second: Saibaman Spritesheet_28
+  - first:
+      213: -3023780746894319777
+    second: Saibaman Spritesheet_29
+  - first:
+      213: -6843171214214473080
+    second: Saibaman Spritesheet_30
+  - first:
+      213: 1025298160006182998
+    second: Saibaman Spritesheet_31
+  - first:
+      213: 4459359463371977886
+    second: Saibaman Spritesheet_32
+  - first:
+      213: -6965603577285446159
+    second: Saibaman Spritesheet_33
+  - first:
+      213: 6396136201855264397
+    second: Saibaman Spritesheet_34
+  - first:
+      213: -3948924109344457559
+    second: Saibaman Spritesheet_35
+  - first:
+      213: 1171847672831108129
+    second: Saibaman Spritesheet_36
+  - first:
+      213: 1683690369086199118
+    second: Saibaman Spritesheet_37
+  - first:
+      213: 997719391244070073
+    second: Saibaman Spritesheet_38
+  - first:
+      213: 395756540541168677
+    second: Saibaman Spritesheet_39
+  - first:
+      213: 2296914747226248687
+    second: Saibaman Spritesheet_40
+  - first:
+      213: -879768082255707682
+    second: Saibaman Spritesheet_41
+  - first:
+      213: 6319862398967952594
+    second: Saibaman Spritesheet_42
+  - first:
+      213: 6440839220789199205
+    second: Saibaman Spritesheet_43
+  - first:
+      213: 632854957353964306
+    second: Saibaman Spritesheet_44
+  - first:
+      213: -4215676483369730661
+    second: Saibaman Spritesheet_45
+  - first:
+      213: -5116460829971603425
+    second: Saibaman Spritesheet_46
+  - first:
+      213: 6137698773165026732
+    second: Saibaman Spritesheet_47
+  - first:
+      213: 8349636351706601029
+    second: Saibaman Spritesheet_48
+  - first:
+      213: 3558467249721095175
+    second: Saibaman Spritesheet_49
+  - first:
+      213: -7657770548104773046
+    second: Saibaman Spritesheet_50
+  - first:
+      213: -4079897994478800369
+    second: Saibaman Spritesheet_51
+  - first:
+      213: -5827789959871018500
+    second: Saibaman Spritesheet_52
+  - first:
+      213: 59366904671864994
+    second: Saibaman Spritesheet_53
+  - first:
+      213: -781695197855945572
+    second: Saibaman Spritesheet_54
+  - first:
+      213: -8171762237064179205
+    second: Saibaman Spritesheet_55
+  - first:
+      213: -1822742192299080475
+    second: Saibaman Spritesheet_56
+  - first:
+      213: 655367506754103468
+    second: Saibaman Spritesheet_57
+  - first:
+      213: 5821175015908795643
+    second: Saibaman Spritesheet_58
+  - first:
+      213: -2442708334979919505
+    second: Saibaman Spritesheet_59
+  - first:
+      213: 8615571606693141476
+    second: Saibaman Spritesheet_60
+  - first:
+      213: 700752070075208971
+    second: Saibaman Spritesheet_61
+  - first:
+      213: 7996470684925478036
+    second: Saibaman Spritesheet_62
+  - first:
+      213: -6069716255315187642
+    second: Saibaman Spritesheet_63
+  - first:
+      213: -1185292972115801494
+    second: Saibaman Spritesheet_64
+  - first:
+      213: 4737349221340355002
+    second: Saibaman Spritesheet_65
+  - first:
+      213: 1580351829385355928
+    second: Saibaman Spritesheet_66
+  - first:
+      213: -3451173820225045409
+    second: Saibaman Spritesheet_67
+  - first:
+      213: 4095497289993853476
+    second: Saibaman Spritesheet_68
+  - first:
+      213: 51511400425441176
+    second: Saibaman Spritesheet_69
+  - first:
+      213: 2575035643405775946
+    second: Saibaman Spritesheet_70
+  - first:
+      213: -6331090409657516755
+    second: Saibaman Spritesheet_71
+  - first:
+      213: -4494284754769989154
+    second: Saibaman Spritesheet_72
+  - first:
+      213: 5960595706942404301
+    second: Saibaman Spritesheet_73
+  - first:
+      213: 8130013172167043265
+    second: Saibaman Spritesheet_74
+  - first:
+      213: -7938259451347469156
+    second: Saibaman Spritesheet_75
+  - first:
+      213: 4993885097396103055
+    second: Saibaman Spritesheet_76
+  - first:
+      213: -6980699826673881869
+    second: Saibaman Spritesheet_77
+  - first:
+      213: 1262388847294686715
+    second: Saibaman Spritesheet_78
+  - first:
+      213: 558310445140401994
+    second: Saibaman Spritesheet_79
+  - first:
+      213: -3870817188360407652
+    second: Saibaman Spritesheet_80
+  - first:
+      213: -6219726321565263468
+    second: Saibaman Spritesheet_81
+  - first:
+      213: 5135214632997928141
+    second: Saibaman Spritesheet_82
+  - first:
+      213: -1519758722381249081
+    second: Saibaman Spritesheet_83
+  - first:
+      213: 3275356666098725612
+    second: Saibaman Spritesheet_84
+  - first:
+      213: 5517783228946418420
+    second: Saibaman Spritesheet_85
+  - first:
+      213: -3412166295857946865
+    second: Saibaman Spritesheet_86
+  - first:
+      213: -8256890519925020233
+    second: Saibaman Spritesheet_87
+  - first:
+      213: -4274466236251093302
+    second: Saibaman Spritesheet_88
+  - first:
+      213: 9175122151238694639
+    second: Saibaman Spritesheet_89
+  - first:
+      213: -8033563122208541421
+    second: Saibaman Spritesheet_90
+  - first:
+      213: -7685586877734580957
+    second: Saibaman Spritesheet_91
+  - first:
+      213: 2079235721288469014
+    second: Saibaman Spritesheet_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1007
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1398dafd05f7e0800000000000000
+      internalID: -1732463110627582861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1008
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ba0a2246cb05d0800000000000000
+      internalID: -3095162331411599356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 906
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f3a62ac77ef3b0800000000000000
+      internalID: -5476808386720566796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 906
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5478293c40d6b2e0800000000000000
+      internalID: -2110270349581454246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 905
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1ef73aaa2da9660800000000000000
+      internalID: 7393453368611430904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 905
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d74e6b0e88e3850800000000000000
+      internalID: 6358670222616198500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 907
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df8ecb3bf15fbd90800000000000000
+      internalID: -7079849949721096239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 910
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6da716412d5b20800000000000000
+      internalID: 3124690301393660753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 900
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6813ea1dadf3cc90800000000000000
+      internalID: -7150592863411955604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 901
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9db32148faae3fe0800000000000000
+      internalID: -1207339666867241571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 898
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2886808b73593ac30800000000000000
+      internalID: 4369500130022811778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 901
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ada63500b776460800000000000000
+      internalID: 7234886567723719258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 803
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c58acbc4d2123b0800000000000000
+      internalID: -5539096259083084683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 803
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dc91b2cfd7dda00800000000000000
+      internalID: 782920432240676121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 803
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e969f7d3f51aa0800000000000000
+      internalID: -6190774003822894702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 802
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb424528cec19ad0800000000000000
+      internalID: -2697147342804333639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 804
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3a016b106a0f60800000000000000
+      internalID: 8001313358685551839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 803
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8a2576eb83ffb50800000000000000
+      internalID: 6629079566941071564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 803
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41debc3607005f180800000000000000
+      internalID: -9082352590812091116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 801
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1f003e210714e0800000000000000
+      internalID: -2011137410711217039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 799
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ac42b1375260c0800000000000000
+      internalID: -4584005599753361190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 798
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd2be6e6f5906d0800000000000000
+      internalID: -3023780746894319777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 801
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a519f890c2801a0800000000000000
+      internalID: -6843171214214473080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 703
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9430142ec3d2ed30800000000000000
+      internalID: 4459359463371977886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 704
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5f5b9a374355f90800000000000000
+      internalID: -6965603577285446159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 700
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866996ccf3a3c850800000000000000
+      internalID: 6396136201855264397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 702
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3c81e17a9239c0800000000000000
+      internalID: -3948924109344457559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 700
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12467fdef3d334010800000000000000
+      internalID: 1171847672831108129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 702
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e451129587bad5710800000000000000
+      internalID: 1683690369086199118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 705
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc2f9c008c98dd00800000000000000
+      internalID: 997719391244070073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5d6c30bc740ef10800000000000000
+      internalID: 2296914747226248687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 576
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10c64279f6ac3f0800000000000000
+      internalID: -879768082255707682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 576
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d435d72e59a4b750800000000000000
+      internalID: 6319862398967952594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 587
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614b827525726950800000000000000
+      internalID: 6440839220789199205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 587
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139d6f0b3a58c800800000000000000
+      internalID: 632854957353964306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 599
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d77c0f298ee75c0800000000000000
+      internalID: -4215676483369730661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 599
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a75abbfdaef8b0800000000000000
+      internalID: -5116460829971603425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 576
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546192b060edfd370800000000000000
+      internalID: 8349636351706601029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 457
+        width: 176
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4244c452422ab590800000000000000
+      internalID: -7657770548104773046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 481
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f023347e36a4167c0800000000000000
+      internalID: -4079897994478800369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9cc4098e78f1fa0800000000000000
+      internalID: -5827789959871018500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a88160a2e9e2d000800000000000000
+      internalID: 59366904671864994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cea21fb5cd625f0800000000000000
+      internalID: -781695197855945572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 407
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf196de8a81189e80800000000000000
+      internalID: -8171762237064179205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 407
+        width: 99
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e485e622a154b6e0800000000000000
+      internalID: -1822742192299080475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 299
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46f96c5d7f8c050800000000000000
+      internalID: 5821175015908795643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 296
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61d2ab16b1c91ed0800000000000000
+      internalID: -2442708334979919505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 296
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebd2e1aab8a09770800000000000000
+      internalID: 8615571606693141476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 297
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d3748b4299b900800000000000000
+      internalID: 700752070075208971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 296
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494cec788bb29fe60800000000000000
+      internalID: 7996470684925478036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648268a793904cba0800000000000000
+      internalID: -6069716255315187642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saibaman Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 289
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab917fa64027eb140800000000000000
+      internalID: 4737349221340355002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ddf47812481293645b50ef81a335fe3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Saibaman Spritesheet_0: 2799922573375063956
+      Saibaman Spritesheet_1: -1421218374312090358
+      Saibaman Spritesheet_10: 6358670222616198500
+      Saibaman Spritesheet_11: -7079849949721096239
+      Saibaman Spritesheet_12: 3124690301393660753
+      Saibaman Spritesheet_13: -7150592863411955604
+      Saibaman Spritesheet_14: -1207339666867241571
+      Saibaman Spritesheet_15: 4369500130022811778
+      Saibaman Spritesheet_16: 7234886567723719258
+      Saibaman Spritesheet_17: 7158760420744007399
+      Saibaman Spritesheet_18: -5539096259083084683
+      Saibaman Spritesheet_19: 782920432240676121
+      Saibaman Spritesheet_2: -5300619968640885744
+      Saibaman Spritesheet_20: -6190774003822894702
+      Saibaman Spritesheet_21: -2697147342804333639
+      Saibaman Spritesheet_22: 8001313358685551839
+      Saibaman Spritesheet_23: 6629079566941071564
+      Saibaman Spritesheet_24: -9082352590812091116
+      Saibaman Spritesheet_25: -4296802045054856093
+      Saibaman Spritesheet_26: -8635208799432531737
+      Saibaman Spritesheet_27: -2011137410711217039
+      Saibaman Spritesheet_28: -4584005599753361190
+      Saibaman Spritesheet_29: -3023780746894319777
+      Saibaman Spritesheet_3: -33616927098182327
+      Saibaman Spritesheet_30: -6843171214214473080
+      Saibaman Spritesheet_31: 1025298160006182998
+      Saibaman Spritesheet_32: 4459359463371977886
+      Saibaman Spritesheet_33: -6965603577285446159
+      Saibaman Spritesheet_34: 6396136201855264397
+      Saibaman Spritesheet_35: -3948924109344457559
+      Saibaman Spritesheet_36: 1171847672831108129
+      Saibaman Spritesheet_37: 1683690369086199118
+      Saibaman Spritesheet_38: 997719391244070073
+      Saibaman Spritesheet_39: 395756540541168677
+      Saibaman Spritesheet_4: -1732463110627582861
+      Saibaman Spritesheet_40: 2296914747226248687
+      Saibaman Spritesheet_41: -879768082255707682
+      Saibaman Spritesheet_42: 6319862398967952594
+      Saibaman Spritesheet_43: 6440839220789199205
+      Saibaman Spritesheet_44: 632854957353964306
+      Saibaman Spritesheet_45: -4215676483369730661
+      Saibaman Spritesheet_46: -5116460829971603425
+      Saibaman Spritesheet_47: 6137698773165026732
+      Saibaman Spritesheet_48: 8349636351706601029
+      Saibaman Spritesheet_49: 3558467249721095175
+      Saibaman Spritesheet_5: -3095162331411599356
+      Saibaman Spritesheet_50: -7657770548104773046
+      Saibaman Spritesheet_51: -4079897994478800369
+      Saibaman Spritesheet_52: -5827789959871018500
+      Saibaman Spritesheet_53: 59366904671864994
+      Saibaman Spritesheet_54: -781695197855945572
+      Saibaman Spritesheet_55: -8171762237064179205
+      Saibaman Spritesheet_56: -1822742192299080475
+      Saibaman Spritesheet_57: 655367506754103468
+      Saibaman Spritesheet_58: 5821175015908795643
+      Saibaman Spritesheet_59: -2442708334979919505
+      Saibaman Spritesheet_6: 9090998737928280046
+      Saibaman Spritesheet_60: 8615571606693141476
+      Saibaman Spritesheet_61: 700752070075208971
+      Saibaman Spritesheet_62: 7996470684925478036
+      Saibaman Spritesheet_63: -6069716255315187642
+      Saibaman Spritesheet_64: -1185292972115801494
+      Saibaman Spritesheet_65: 4737349221340355002
+      Saibaman Spritesheet_66: 1580351829385355928
+      Saibaman Spritesheet_67: -3451173820225045409
+      Saibaman Spritesheet_68: 4095497289993853476
+      Saibaman Spritesheet_69: 51511400425441176
+      Saibaman Spritesheet_7: -5476808386720566796
+      Saibaman Spritesheet_70: 2575035643405775946
+      Saibaman Spritesheet_71: -6331090409657516755
+      Saibaman Spritesheet_72: -4494284754769989154
+      Saibaman Spritesheet_73: 5960595706942404301
+      Saibaman Spritesheet_74: 8130013172167043265
+      Saibaman Spritesheet_75: -7938259451347469156
+      Saibaman Spritesheet_76: 4993885097396103055
+      Saibaman Spritesheet_77: -6980699826673881869
+      Saibaman Spritesheet_78: 1262388847294686715
+      Saibaman Spritesheet_79: 558310445140401994
+      Saibaman Spritesheet_8: -2110270349581454246
+      Saibaman Spritesheet_80: -3870817188360407652
+      Saibaman Spritesheet_81: -6219726321565263468
+      Saibaman Spritesheet_82: 5135214632997928141
+      Saibaman Spritesheet_83: -1519758722381249081
+      Saibaman Spritesheet_84: 3275356666098725612
+      Saibaman Spritesheet_85: 5517783228946418420
+      Saibaman Spritesheet_86: -3412166295857946865
+      Saibaman Spritesheet_87: -8256890519925020233
+      Saibaman Spritesheet_88: -4274466236251093302
+      Saibaman Spritesheet_89: 9175122151238694639
+      Saibaman Spritesheet_9: 7393453368611430904
+      Saibaman Spritesheet_90: -8033563122208541421
+      Saibaman Spritesheet_91: -7685586877734580957
+      Saibaman Spritesheet_92: 2079235721288469014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
